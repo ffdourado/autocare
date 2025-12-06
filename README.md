@@ -1,15 +1,13 @@
 # AutoCare – Sistema de Gestão e Manutenção Preventiva de Veículos
 
-Projeto da UNINOVE para a disciplina de Projeto Integrador.
+Projeto acadêmico desenvolvido para a UNINOVE.
 
 Este repositório contém:
-- Documentação do projeto
-- Roteiro do pitch
-- Slides de apresentação
-- Código simples em Python (Flask) simulando uma API para cadastro e alertas de manutenção
+- Documentação do projeto (arquivo projeto_autocare.md)
+- Roteiro do pitch (arquivo pitch_script.md)
+- Slides (arquivo answer.pptx)
+- Código simples em Python simulando a API (arquivo app.py)
 
-## Como rodar
+## Como rodar a API
 
-### 1. Instalar dependências
-```bash
-pip install -r src/requirements.txt
+### Instalar dependências
